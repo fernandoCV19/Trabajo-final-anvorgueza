@@ -1,0 +1,83 @@
+commit 16ce96427b23c09dff9a9530dc2f3686892b7f16
+Merge: 1aaabce 5104110
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:18:14 2020 -0400
+
+    App lista para el primer release
+
+commit 5104110a2df38ae5f31adda2883f034aa3a6e151
+Merge: 962c390 fd13806
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:12:09 2020 -0400
+
+    Union de la caracteristica 5 - R1 a develop
+
+commit fd138067d5678d0bf99c09161272b65d77282f81
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:11:41 2020 -0400
+
+    caracteristica 5-R1
+
+commit 962c390bc3b3dcca23955ff067c273e3bf0a33c9
+Merge: c991f7f 56bf013
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:06:23 2020 -0400
+
+    Union de la caracteristica 4 - R1 a develop
+
+commit 56bf013504db5ea881cdd463ab3a21c5f8e5204e
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:05:43 2020 -0400
+
+    caracteristica 4-R1
+
+commit c991f7f80f8a1bf98cdc486c61509718a4874898
+Merge: 71704b3 455ac92
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:55:53 2020 -0400
+
+    Union de la caracteristica 3 -R1  a develop
+
+commit 455ac924d24c75761f75ef848e97910ac7f2ca1c
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:55:17 2020 -0400
+
+    caracteristica 3 - R1
+
+commit 71704b343fcd488e910680018bed015ce09f3008
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:49:56 2020 -0400
+
+    .
+
+commit 77b4440ea70cc8a1f48a8ef82e4c1fed04f1d175
+Merge: 82f20e2 fa01e52
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:46:02 2020 -0400
+
+    Union de la caracteristica 2 - R1 a la rama develop
+
+commit fa01e52fa28e091c32c3b6b8845da17c079c94e3
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:45:19 2020 -0400
+
+    caracteristica 2 - R2
+
+commit 82f20e2051634dc65031da004e64284b60c1ebc6
+Merge: 1aaabce ae71d86
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:27:22 2020 -0400
+
+    Union de la caracteristica 1-r1 a develop
+
+commit ae71d8619214c3c9963509a0ca63e9f895760651
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:26:52 2020 -0400
+
+    caracteristica 1 - R1
+
+commit 1aaabce7f3583b267a29b09c5b689d5ccc9739a5
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:21:57 2020 -0400
+
+    Creacion del archivo main.java
