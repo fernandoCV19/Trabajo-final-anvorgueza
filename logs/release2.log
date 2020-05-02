@@ -1,0 +1,297 @@
+commit f996ec968b6c540ab6a463fa309fae960c24eb47
+Merge: 8a76b91 2daa319
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 22:02:29 2020 -0400
+
+    Finalizacion del segundo release y union en la rama master
+
+commit 2daa319d1454e5f0b0ede21418823031dcb7503d
+Merge: 9dbe88a 43fa7af
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 21:58:53 2020 -0400
+
+    Union de la caracteristica 10 - R2 en la rama release
+
+commit 43fa7af3054dfd0d68c33ae171d5fda7ffad4cf1
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 21:58:27 2020 -0400
+
+    caracteristica 10 - R2
+
+commit 9dbe88ad671a10ccb3cd7ed86597b5d2a80df0b9
+Merge: 1e2338c c3449ee
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 21:54:49 2020 -0400
+
+    Union de la caracteristica 9 - R2 en release
+
+commit c3449ee8d5be635f089a458ad20f40593aa76c39
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 21:54:20 2020 -0400
+
+    caracteristica 9 - R2
+
+commit 1e2338c2c84f9a567e9c088433a2c98165d04aa4
+Merge: fdcb3d0 6d27a69
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 21:49:53 2020 -0400
+
+    Unimos la caracteristica 8 - R2 en la rama release
+
+commit 6d27a691a55cbab09a11436a277931fe10323d67
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 21:49:29 2020 -0400
+
+    caracteristica 8 - R2
+
+commit fdcb3d031327a0823c2d4d6c6e40b428f4489623
+Merge: 1a80eab 5546b12
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 21:44:07 2020 -0400
+
+    Muevo el error corregido de cierre inesperado a la rama release
+
+commit 8a76b91ab99565ae244ca9598afc4be1f295ff0b
+Merge: 7b61b87 5546b12
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 21:40:56 2020 -0400
+
+    Error de cierre inesperado unido a mastery
+
+commit 5546b12395d49dfe43208ebc4408f997209fe2a5
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 21:40:12 2020 -0400
+
+    Cierre inesperado de la aplicacion corregido
+
+commit 1a80eab317ce4d39d8e4a658503a84fc16e2f52c
+Merge: dbe869b 3e26ed2
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:57:31 2020 -0400
+
+    Solucion del error de la caracteristica 5
+
+commit 3e26ed2ce422235c0102ca2393112e48d28ceead
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:56:55 2020 -0400
+
+    caracteristica 5 - R2 reparada
+
+commit dbe869bbc69f01ea855727c6e655a102b64e36ff
+Merge: 93adeb2 5ce51b0
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:48:58 2020 -0400
+
+    Union de la caracteristica 7 - R2 con release
+
+commit 5ce51b0352114cc6cea0168d8297e388c39cdf2d
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:48:25 2020 -0400
+
+    caracteristica 7 - R2
+
+commit 93adeb257ba851903b8ecae7755ef42fcbc70c9f
+Merge: db600e8 a62daa1
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:37:42 2020 -0400
+
+    Union de la caracteristica 6 - R2 con develop
+
+commit a62daa11230ef529c62a77997b2a46b5ffa694cc
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:37:10 2020 -0400
+
+    caracteristica 6 - R2
+
+commit db600e83d338f92cc81a52681d6997a2c1b1f72f
+Merge: 517bc71 c5fe109
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:29:40 2020 -0400
+
+    Error de las cebollas solucionado
+
+commit 517bc71d136ea26b76add4280103c491773fb728
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:29:08 2020 -0400
+
+    .
+
+commit c5fe109e636c68a9cf37d529ba12ea0679261677
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:27:11 2020 -0400
+
+    Archivo git ignore creado
+
+commit 7b61b872ca6ef661378339a7614defb3dce34cea
+Merge: e9432a6 483de66
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:16:16 2020 -0400
+
+    Problema de las cebollas solucionado
+
+commit 483de66a312c4d0525625ccf3be32d5c8902b5be
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:15:40 2020 -0400
+
+    Problema de las cebollas resuelto
+
+commit 942a66e62ae1ada393bbc1febfc5f176f548dcc4
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:14:11 2020 -0400
+
+    .
+
+commit 4ad9b11e6dbc454486d337f7ddfe2b56dfdb971b
+Merge: 824ff38 cba7b23
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:03:29 2020 -0400
+
+    Union de la caracteristica 5 - R2 con develop
+
+commit cba7b23db92a1f51d8d895b584e8525e6fdcff14
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 19:03:08 2020 -0400
+
+    caracteristica 5 - R2
+
+commit 824ff389d8e7ceecb540c49d0de7fbf5c4f27a0a
+Merge: 6e059ad d3f87ee
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:59:26 2020 -0400
+
+    Union de la caracteristica 4 - R2 con develop
+
+commit d3f87ee2ebc6290d02c9c0aee84d07978c5e5a58
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:58:58 2020 -0400
+
+    caracteristica 4 - R2
+
+commit 6e059ad0e57c776bd064a9cd41f7a3843445a597
+Merge: 2cae2cd a5982cb
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:54:49 2020 -0400
+
+    Union de la caracteristica 3 - R2 con develop
+
+commit a5982cb025e09dee13491736e9a99fef8f1d6569
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:54:14 2020 -0400
+
+    caracteristica 3-R2
+
+commit 2cae2cd7d644d3bdad1470113d02359fd047c5ff
+Merge: 94f7cd2 4432cb0
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:50:38 2020 -0400
+
+    Union de la caracteristica 2 de r-2 con develop
+
+commit 4432cb04f6081f27056bb76c2ccc48b81a06cde1
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:50:13 2020 -0400
+
+    caracteristica 2 - R2
+
+commit 94f7cd24569d113e66021b5760626fe527312943
+Merge: 5104110 91659e7
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:41:22 2020 -0400
+
+    Union de la la caracteristica 1 - R2 a develop
+
+commit 91659e70a21d160174f37048575aca314f2957e7
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:40:46 2020 -0400
+
+    caracteristica 1 - R2
+
+commit e9432a6f6166c5a40c6e1b49acdfcfec7634b49d
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:20:45 2020 -0400
+
+    Añado al primer archivo log
+
+commit 16ce96427b23c09dff9a9530dc2f3686892b7f16
+Merge: 1aaabce 5104110
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:18:14 2020 -0400
+
+    App lista para el primer release
+
+commit 5104110a2df38ae5f31adda2883f034aa3a6e151
+Merge: 962c390 fd13806
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:12:09 2020 -0400
+
+    Union de la caracteristica 5 - R1 a develop
+
+commit fd138067d5678d0bf99c09161272b65d77282f81
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:11:41 2020 -0400
+
+    caracteristica 5-R1
+
+commit 962c390bc3b3dcca23955ff067c273e3bf0a33c9
+Merge: c991f7f 56bf013
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:06:23 2020 -0400
+
+    Union de la caracteristica 4 - R1 a develop
+
+commit 56bf013504db5ea881cdd463ab3a21c5f8e5204e
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 18:05:43 2020 -0400
+
+    caracteristica 4-R1
+
+commit c991f7f80f8a1bf98cdc486c61509718a4874898
+Merge: 71704b3 455ac92
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:55:53 2020 -0400
+
+    Union de la caracteristica 3 -R1  a develop
+
+commit 455ac924d24c75761f75ef848e97910ac7f2ca1c
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:55:17 2020 -0400
+
+    caracteristica 3 - R1
+
+commit 71704b343fcd488e910680018bed015ce09f3008
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:49:56 2020 -0400
+
+    .
+
+commit 77b4440ea70cc8a1f48a8ef82e4c1fed04f1d175
+Merge: 82f20e2 fa01e52
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:46:02 2020 -0400
+
+    Union de la caracteristica 2 - R1 a la rama develop
+
+commit fa01e52fa28e091c32c3b6b8845da17c079c94e3
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:45:19 2020 -0400
+
+    caracteristica 2 - R2
+
+commit 82f20e2051634dc65031da004e64284b60c1ebc6
+Merge: 1aaabce ae71d86
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:27:22 2020 -0400
+
+    Union de la caracteristica 1-r1 a develop
+
+commit ae71d8619214c3c9963509a0ca63e9f895760651
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:26:52 2020 -0400
+
+    caracteristica 1 - R1
+
+commit 1aaabce7f3583b267a29b09c5b689d5ccc9739a5
+Author: Fernando Cuenca Vargas <fernandocuva@gmail.com>
+Date:   Fri May 1 17:21:57 2020 -0400
+
+    Creacion del archivo main.java
